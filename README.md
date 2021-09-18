@@ -1,2 +1,2 @@
-# whatsappshare
+# WhatsApp Share
 WhatsApp Share
